@@ -4,6 +4,8 @@
 <h3>Para rodar é necessário instalar o <a href="https://nodejs.org/en/download/">Node</a><br>Depois do preview tem um tutorial de como rodar o bot!</h3><br>
 <h3>Se não quiser seguir esse tutorial, manda msg no discord que eu faço isso ja pra vc <strong>GuilhermeSantos#4093 (tem q add como amg)</strong></h3>
 
+<h2>Atualizacao 23/11/21 - Simulação de nota na recuperação</h2>
+
 <h2> Preview: </h2>
 <img src="https://media.discordapp.net/attachments/881703499556085761/911834888490078238/unknown.png">
 <img src="https://media.discordapp.net/attachments/881703499556085761/911834980362096640/unknown.png">
